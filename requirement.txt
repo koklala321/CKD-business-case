@@ -1,5 +1,0 @@
-pandas
-numpy
-requests
-urllib3
-scikit-learn
